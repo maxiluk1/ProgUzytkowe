@@ -6,3 +6,5 @@
 
 ## Opis projektu
 Projekt ma na celu nauke korzystania z repozytorium git
+
+Glupoty jak nic
